@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzeTable", "AnalyzeTable\AnalyzeTable.csproj", "{BFE9274B-4202-48D1-AB67-D6419E4825CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE9274B-4202-48D1-AB67-D6419E4825CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE9274B-4202-48D1-AB67-D6419E4825CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE9274B-4202-48D1-AB67-D6419E4825CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE9274B-4202-48D1-AB67-D6419E4825CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52129BAA-9144-478D-B9E5-48CE5684A1F2}
+	EndGlobalSection
+EndGlobal
